@@ -2,4 +2,4 @@
 
 ##Apuntes de git
 
-patata
+lo primero instalarlo
